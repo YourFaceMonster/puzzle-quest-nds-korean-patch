@@ -8,6 +8,7 @@
 ![Platform](https://img.shields.io/badge/Platform-NDS-2456A6?style=flat-square)
 ![Status](https://img.shields.io/badge/Translation-Complete-2E8B57?style=flat-square)
 ![Patch](https://img.shields.io/badge/Patch-xdelta3-6A5ACD?style=flat-square)
+[![Metacritic](https://img.shields.io/badge/Metacritic-82%2F100-228B22?style=flat-square)](https://www.metacritic.com/game/puzzle-quest-challenge-of-the-warlords/critic-reviews/?platform=ds)
 
 *퍼즐과 RPG가 만나는 판타지 모험을 한국어로 즐겨보세요.*
 
@@ -25,7 +26,10 @@
 | 플랫폼 | Nintendo DS (NDS) |
 | 패치 기준 | 일본판 |
 | 장르 | 퍼즐 RPG |
+| 메타크리틱 | **82/100** (NDS판, 전문가 평가 41건) |
 | 한국어 패치 | 완료 |
+
+> 메타크리틱 평점은 원작 NDS 버전에 대한 평가이며, 한국어 패치 자체의 평점이 아닙니다.
 
 ## 🇰🇷 한국어 패치 소개
 
